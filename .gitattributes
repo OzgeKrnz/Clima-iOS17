@@ -1,0 +1,3 @@
+*.pbxproj linguist-detectable=false
+*.xcodeproj linguist-detectable=false
+*.swift linguist-detectable=true
